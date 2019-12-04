@@ -19,6 +19,11 @@ Thanks @PetrFanta for the suggestion. :-)
 Fortran could have nicer way of reading inputs and use its obscure formats.
 Once the input was read into a string (2.5 hours), the rest was easy (1 hour).
 
+## Day 4 - Minizinc
+
+Because the task was about modeling constraints, I for once chose a suitable language.
+Solution took only a couple minutes.
+
 # Pool of languages
 * java
 * kotlin
