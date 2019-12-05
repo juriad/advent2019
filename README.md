@@ -24,6 +24,11 @@ Once the input was read into a string (2.5 hours), the rest was easy (1 hour).
 Because the task was about modeling constraints, I for once chose a suitable language.
 Solution took only a couple minutes.
 
+## Day 5 - (Free)Basic
+
+Again, I had to parse input manually; I am getting better at this.
+The task itself was just a natural progression of day 2.
+
 # Pool of languages
 * java
 * kotlin
@@ -46,7 +51,6 @@ Solution took only a couple minutes.
 * matlab
 * c#
 * bash
-* basic
 * cobol
 * algol
 * simula
