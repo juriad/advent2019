@@ -29,6 +29,10 @@ Solution took only a couple minutes.
 Again, I had to parse input manually; I am getting better at this.
 The task itself was just a natural progression of day 2.
 
+## Day 6 - (Common)Lisp
+
+Revising finger-counting and adapting FP principles to LISP.
+
 # Pool of languages
 * java
 * kotlin
@@ -38,7 +42,6 @@ The task itself was just a natural progression of day 2.
 * c++
 * go
 * rust
-* lisp
 * php
 * python
 * ruby
