@@ -33,6 +33,11 @@ The task itself was just a natural progression of day 2.
 
 Revising finger-counting and adapting FP principles to LISP.
 
+## Day 7 - (SWI)Prolog
+
+I had to reimplement day 5 in another language.
+Hardest task so far because of the second part which required changing the way programs are running.
+
 # Pool of languages
 * java
 * kotlin
@@ -50,7 +55,6 @@ Revising finger-counting and adapting FP principles to LISP.
 * vala
 * pascal
 * haskel
-* prolog
 * matlab
 * c#
 * bash
