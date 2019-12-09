@@ -38,6 +38,10 @@ Revising finger-counting and adapting FP principles to LISP.
 I had to reimplement day 5 in another language.
 Hardest task so far because of the second part which required changing the way programs are running.
 
+## Day 8 - (Free)Pascal
+
+A simple task quite well suited for the language of my choice.
+
 # Pool of languages
 * java
 * kotlin
@@ -53,7 +57,6 @@ Hardest task so far because of the second part which required changing the way p
 * perl
 * javascript
 * vala
-* pascal
 * haskel
 * matlab
 * c#
