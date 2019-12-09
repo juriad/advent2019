@@ -42,6 +42,11 @@ Hardest task so far because of the second part which required changing the way p
 
 A simple task quite well suited for the language of my choice.
 
+## Day 9 - Lua
+
+Yet another variation on virtual machine; nothing hard, finished surprisingly fast.
+Lua is actually very comfortable language to write programs in.
+
 # Pool of languages
 * java
 * kotlin
