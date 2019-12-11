@@ -47,6 +47,11 @@ A simple task quite well suited for the language of my choice.
 Yet another variation on virtual machine; nothing hard, finished surprisingly fast.
 Lua is actually very comfortable language to write programs in.
 
+## Day 10 - Erlang
+
+First half was beautiful, second half not as much.
+I don't regret using Erlang, however the second part was not a great match for it.
+
 # Pool of languages
 * java
 * kotlin
