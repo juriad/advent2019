@@ -52,6 +52,11 @@ Lua is actually very comfortable language to write programs in.
 First half was beautiful, second half not as much.
 I don't regret using Erlang, however the second part was not a great match for it.
 
+## Day 11 - PHP(7)
+
+I chose a language which I am very familiar with because there is hardly anything interesting on reimplementing the computer again.
+Finally a language where I was happy to use OOP.
+
 # Pool of languages
 * java
 * kotlin
@@ -61,7 +66,6 @@ I don't regret using Erlang, however the second part was not a great match for i
 * c++
 * go
 * rust
-* php
 * python
 * ruby
 * perl
