@@ -57,6 +57,11 @@ I don't regret using Erlang, however the second part was not a great match for i
 I chose a language which I am very familiar with because there is hardly anything interesting on reimplementing the computer again.
 Finally a language where I was happy to use OOP.
 
+## Day 12 - Matlab (Octave)
+
+A task which forces you to think and to look for symmetries.
+I had problems with performance with the language of my choice which caused doubts in the solution.
+
 # Pool of languages
 * java
 * kotlin
@@ -72,7 +77,6 @@ Finally a language where I was happy to use OOP.
 * javascript
 * vala
 * haskel
-* matlab
 * c#
 * bash
 * cobol
