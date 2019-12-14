@@ -62,6 +62,11 @@ Finally a language where I was happy to use OOP.
 A task which forces you to think and to look for symmetries.
 I had problems with performance with the language of my choice which caused doubts in the solution.
 
+## Day 13 - Ruby
+
+IntCode was easy to reimplement, I only had to tweak the input and output.
+Playing the game was challenging until I got to hacking the memory.
+
 # Pool of languages
 * java
 * kotlin
@@ -72,7 +77,6 @@ I had problems with performance with the language of my choice which caused doub
 * go
 * rust
 * python
-* ruby
 * perl
 * javascript
 * vala
