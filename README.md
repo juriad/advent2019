@@ -67,6 +67,12 @@ I had problems with performance with the language of my choice which caused doub
 IntCode was easy to reimplement, I only had to tweak the input and output.
 Playing the game was challenging until I got to hacking the memory.
 
+## Day 14 - Rust
+
+Biggest struggle so far.
+There are so many safety features in the language that they get in the way very often.
+At least the compiler is helful.
+
 # Pool of languages
 * java
 * kotlin
