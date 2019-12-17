@@ -71,7 +71,12 @@ Playing the game was challenging until I got to hacking the memory.
 
 Biggest struggle so far.
 There are so many safety features in the language that they get in the way very often.
-At least the compiler is helful.
+At least the compiler is helpful.
+
+## Day 15 - JavaScript
+
+I liked exploration tasks last year and this one was also nice and easy.
+Finally using some algorithms (BFS).
 
 # Pool of languages
 * java
@@ -81,10 +86,8 @@ At least the compiler is helful.
 * c
 * c++
 * go
-* rust
 * python
 * perl
-* javascript
 * vala
 * haskel
 * c#
