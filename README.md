@@ -78,6 +78,10 @@ At least the compiler is helpful.
 I liked exploration tasks last year and this one was also nice and easy.
 Finally using some algorithms (BFS).
 
+## Day 16 - Ada
+
+The first part was easy, the second needed a bit of clever approach. 
+
 # Pool of languages
 * java
 * kotlin
