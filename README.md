@@ -80,22 +80,25 @@ Finally using some algorithms (BFS).
 
 ## Day 16 - Ada
 
-The first part was easy, the second needed a bit of clever approach. 
+The first part was easy, the second needed a bit of clever approach.
+
+## Day 17 - Go 
+
+The first part was about implementation of IntCode again.
+Second part was solved mostly manually; heuristics were just too dumb.
 
 # Pool of languages
+* haskell
+* python
+* perl
+* c
+* c++
+* ocaml
+* mercury
+
 * java
 * kotlin
 * scala
 * groovy
-* c
-* c++
-* go
-* python
-* perl
 * vala
-* haskel
 * c#
-* bash
-* cobol
-* algol
-* simula
