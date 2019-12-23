@@ -87,6 +87,11 @@ The first part was easy, the second needed a bit of clever approach.
 The first part was about implementation of IntCode again.
 Second part was solved mostly manually; heuristics were just too dumb.
 
+## Day 18 - C
+
+The task was easy enough, however its complexity was in the huge state-space which needed to be searched through.
+To speed up the computation I had to implement a trivial collision-free three-level HashMap.
+
 # Pool of languages
 * haskell
 * python
