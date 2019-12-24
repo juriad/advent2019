@@ -92,11 +92,13 @@ Second part was solved mostly manually; heuristics were just too dumb.
 The task was easy enough, however its complexity was in the huge state-space which needed to be searched through.
 To speed up the computation I had to implement a trivial collision-free three-level HashMap.
 
+## Day 19 - Haskell
+
+I was worried that I forget a lot of Haskell, however implementation was still very fast.
+
 # Pool of languages
-* haskell
 * python
 * perl
-* c
 * c++
 * ocaml
 * mercury
