@@ -96,9 +96,13 @@ To speed up the computation I had to implement a trivial collision-free three-le
 
 I was worried that I forget a lot of Haskell, however implementation was still very fast.
 
+## Day 20 - Raku
+
+I learned Perl 5 many years ago and was interested in looking at the changes in Perl 6.
+The task was easy enough, the second part had a nice twist.
+
 # Pool of languages
 * python
-* perl
 * c++
 * ocaml
 * mercury
