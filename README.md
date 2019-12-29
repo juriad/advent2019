@@ -101,10 +101,13 @@ I was worried that I forget a lot of Haskell, however implementation was still v
 I learned Perl 5 many years ago and was interested in looking at the changes in Perl 6.
 The task was easy enough, the second part had a nice twist.
 
+## Day 21 - OCaml
+
+The task was pretty easy; the IntCode even provides the counter-example.
+
 # Pool of languages
 * python
 * c++
-* ocaml
 * mercury
 
 * java

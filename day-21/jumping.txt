@@ -1,0 +1,33 @@
+@ABCdEFGhI
+@.###########
+@#.##.########
+@#..##.##.####
+@##.#.#.#...###
+@##.##..#.#.###
+@##.###.#...###
+
+D && !A -> jump
+D && !B && (!E || !I) -> jump
+D && !C && H && (!E || !F || !G) -> jump
+
+J = D && (!A || !B && (!E || !I) || !C && H && (!E || !F || !G ))
+J = D && !(A && (B || (E && I)) && (C || !H || (E && F && G))
+
+OR E J // third
+AND F J
+AND G J
+NOT H T
+OR T J
+OR C J
+
+// false -> T // second
+OR E T 
+AND I T
+OR B T
+AND T J
+
+AND A J // first
+
+NOT J J // not
+
+AND D J // and d
