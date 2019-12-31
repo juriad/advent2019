@@ -105,10 +105,16 @@ The task was easy enough, the second part had a nice twist.
 
 The task was pretty easy; the IntCode even provides the counter-example.
 
+## Day 22 - Julia
+
+Hardest task so far.
+It was obvious that we are dealing with modular arithmetic and that multiplicative inverses will be useful.
+That was sufficient for the first part.
+The second part required to unify all three shuffling techniques and being able to combine them together.
+
 # Pool of languages
 * python
 * c++
-* mercury
 
 * java
 * kotlin
