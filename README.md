@@ -121,14 +121,8 @@ The second part could have a better description of what idle means, however my i
 
 A nice task again, the recursive twist was very nice.
 
-# Pool of languages
-* python
-* c++
-* elixir
+## Day 25 - Python
 
-* java
-* kotlin
-* scala
-* groovy
-* vala
-* c#
+How else to end than with just another IntCode implementation?
+The task was solved partly manually by walking around and drawing diagrams.
+It was fun finding out what happens when I take photons.
