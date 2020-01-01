@@ -117,6 +117,10 @@ The second part required to unify all three shuffling techniques and being able 
 Easy task; nothing surprising.
 The second part could have a better description of what idle means, however my interpretation worked too. 
 
+## Day 24 - Nim
+
+A nice task again, the recursive twist was very nice.
+
 # Pool of languages
 * python
 * c++
