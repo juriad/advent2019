@@ -112,9 +112,15 @@ It was obvious that we are dealing with modular arithmetic and that multiplicati
 That was sufficient for the first part.
 The second part required to unify all three shuffling techniques and being able to combine them together.
 
+## Day 23 - Dart
+
+Easy task; nothing surprising.
+The second part could have a better description of what idle means, however my interpretation worked too. 
+
 # Pool of languages
 * python
 * c++
+* elixir
 
 * java
 * kotlin
